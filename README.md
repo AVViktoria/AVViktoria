@@ -29,14 +29,9 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/avilova_vikto">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=c42a2ab3&logo=Instagram&logoColor=FFFFFF&label" alt="Instagram Badge"/>
   </a>
   <a href="https://t.me/avilova_vikto">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label" alt="Telegram Badge"/>
   </a>
 </div>
-
-<!-- ![GitHub](https://img.shields.io/static/v1?url=https://github.com/AVViktoria&style=for-the-badge&message=GitHub&color=a7a7a7&logo=GitHub&logoColor=FFFFFF&label)
-![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label)
-![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label)
-![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label) -->
