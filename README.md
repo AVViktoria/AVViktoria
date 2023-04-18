@@ -4,9 +4,7 @@
 
 ### I like to learn and understand something new, to solve the tasks.
 
-## :page_facing_up:
-
-## :page_facing_up: [RESUME](https://avviktoria.github.io/rsschool-cv/)
+## :page_facing_up:[RESUME](https://avviktoria.github.io/rsschool-cv/)
 
 ## :hammer_and_wrench: My stack and tools
 
