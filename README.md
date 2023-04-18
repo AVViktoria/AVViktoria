@@ -1,4 +1,4 @@
-![Header](https://www.canva.com/design/DAFgfWcp92Y/anHDWe0t-MNnpZvmtA2bYA/watch?utm_content=DAFgfWcp92Y&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![Header](https://github.com/avviktoria/avviktoria/blob/main/assets/front.mp4)
 
 ## :sparkles: My name is Viktoria and I’m a Junior Frontend Web Developer.
 
