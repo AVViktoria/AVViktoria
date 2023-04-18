@@ -4,6 +4,8 @@
 
 ### I like to learn and understand something new, to solve the tasks.
 
+![Open to work](https://avviktoria.github.io/rsschool-cv/)
+
 ## :hammer_and_wrench: My stack and tools
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -22,7 +24,7 @@
 
 ## :calling: Follow me
 
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=a7a7a7&logo=GitHub&logoColor=FFFFFF&label&link=https://github.com/AVViktoria?tab=repositories)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=a7a7a7&logo=GitHub&logoColor=FFFFFF&label&link=https://github.com/AVViktoria)
 ![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label&link=https://www.linkedin.com/in/viktoriiaavilova/)
 ![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label&link=https://instagram.com/avilova_vikto?igshid=YmMyMTA2M2Y)
 ![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label&link=https://t.me/avilova_vikto)
