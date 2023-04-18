@@ -28,8 +28,7 @@
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=d62e2e&logo=Instagram&logoColor=FFFFFF&label)](https://instagram.com/avilova_vikto)
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label)](https://t.me/avilova_vikto)
 
-## :bar_chart: Stats
+## :fire: My stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avviktoria&theme=material-palenight&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=avviktoria&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avviktoria&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
