@@ -1,4 +1,4 @@
-![Header](https://github.com/avviktoria/avviktoria/blob/main/assets/front.mp4)
+![Header](https://github.com/avviktoria/avviktoria/blob/main/assets/header.png)
 
 ## :sparkles: My name is Viktoria and I’m a Junior Frontend Web Developer.
 
