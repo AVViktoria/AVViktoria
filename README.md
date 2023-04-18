@@ -4,7 +4,9 @@
 
 ### I like to learn and understand something new, to solve the tasks.
 
-![Open to work](https://avviktoria.github.io/rsschool-cv/)
+## :page_facing_up:
+
+## :page_facing_up: [RESUME](https://avviktoria.github.io/rsschool-cv/)
 
 ## :hammer_and_wrench: My stack and tools
 
@@ -24,7 +26,11 @@
 
 ## :calling: Follow me
 
-<div id="badges">
+[![Linkedin](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label)](https://www.linkedin.com/in/viktoriiaavilova/)
+[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=d62e2e&logo=Instagram&logoColor=FFFFFF&label)](https://instagram.com/avilova_vikto)
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label)](https://t.me/avilova_vikto)
+
+<!-- <div id="badges">
   <a href="https://www.linkedin.com/in/viktoriiaavilova/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label" alt="LinkedIn Badge"/>
   </a>
@@ -34,4 +40,4 @@
   <a href="https://t.me/avilova_vikto">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label" alt="Telegram Badge"/>
   </a>
-</div>
+</div> -->
