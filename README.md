@@ -27,3 +27,7 @@
 [![Linkedin](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label)](https://www.linkedin.com/in/viktoriiaavilova/)
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=d62e2e&logo=Instagram&logoColor=FFFFFF&label)](https://instagram.com/avilova_vikto)
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label)](https://t.me/avilova_vikto)
+
+## :calling: Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avviktoria&theme=material-palenight&show_icons=true)
